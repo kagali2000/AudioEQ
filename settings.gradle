@@ -1,0 +1,2 @@
+rootProject.name = "AudioEQ"
+include(":app")
